@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="AllTrails https://www.alltrails.com/ - Le Noirmont Parking 02" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <metadata>
+    <name>Le Noirmont Parking 02</name>
+    <link href="https://www.gpsies.com/">
+      <text>Le Noirmont Parking 02 on AllTrails</text>
+    </link>
+    <time>2024-06-15T09:23:06Z</time>
+  </metadata>
+  <wpt lat="46.48404209" lon="6.157368704">
+    <ele>1306.0000</ele>
+    <name>Undefined</name>
+    <sym>Waypoint</sym>
+  </wpt>
+</gpx>
+
